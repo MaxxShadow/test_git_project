@@ -2,7 +2,7 @@
 Nástroje pro různé pomocné funkce.
 
 - ``TemperatureConverter``: Třída pro převod teplot mezi Celsiem a Fahrenheitem.
-- ``StringUtils``: Třída pro různé operace s řetězci.
+- ``StringUtils``: Třída pro různé operace s řetězci. DOPLNENO
 
 .. note:: Tento modul je určen pro demonstrační účely a nemusí pokrývat všechny okrajové případy.
 """
